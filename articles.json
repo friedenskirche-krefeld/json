@@ -1,0 +1,19 @@
+{
+    "articles": [
+      {
+        "href": "index.html",
+        "imageUrl": "images/photos/IMG_0567.jpeg",
+        "title": "Hinter den Kulissen",
+        "subtitle": "Instagram Reel",
+        "preview": "Vorschau"
+      },
+      {
+        "href": "index.html",
+        "imageUrl": "images/photos/Kirche.jpeg",
+        "title": "Hinter den Kulissen",
+        "subtitle": "Instagram Reel",
+        "preview": "Vorschau"
+      }
+    ]
+  }
+  
