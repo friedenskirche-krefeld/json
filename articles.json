@@ -13,6 +13,13 @@
         "title": "Hinter den Kulissen",
         "subtitle": "Instagram Reel",
         "preview": "Vorschau"
+      },
+        {
+        "href": "index.html",
+        "imageUrl": "images/photos/Kirche.jpeg",
+        "title": "Hinter den Kulissen test",
+        "subtitle": "Instagram Reel",
+        "preview": "Vorschau"
       }
     ]
   }
