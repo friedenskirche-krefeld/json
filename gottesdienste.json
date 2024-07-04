@@ -1,76 +1,84 @@
 {
-    "gottesdienste": [
-      {
-        "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=6.%20So%20trinitatis&location=Friedenskirche%20Krefeld&startdate=07.07.2024&starthour=10&startminute=00&enddate=07.07.2024&endhour=11&endminute=00&description=Gottesdienst%20in%20der%20Friedenskirche%20Krefeld&reminder=10&method=REQUEST&timezone=CET&timezoneoffset=&filename=6-so-trinitatis&todo=generate+ics-file",
-        "dateno": "7",
-        "datemonth": "JUL",
-        "title": "6. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Harms"
-      },
-      {
-        "hrefics": "",
-        "dateno": "14",
-        "datemonth": "JUL",
-        "title": "7. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Hendricks"
-      },
-      {
-        "hrefics": "",
-        "dateno": "21",
-        "datemonth": "JUL",
-        "title": "8. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Böhme"
-      },
-      {
-        "hrefics": "",
-        "dateno": "28",
-        "datemonth": "JUL",
-        "title": "9. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Schöller"
-      },
-      {
-        "hrefics": "",
-        "dateno": "4",
-        "datemonth": "AUG",
-        "title": "10. So.nTrinitatis",
-        "time": "11:00 Uhr",
-        "pfarrer": "Pfarrer Harms"
-      },
-      {
-        "hrefics": "",
-        "dateno": "11",
-        "datemonth": "AUG",
-        "title": "11. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Roth"
-      },
-      {
-        "hrefics": "",
-        "dateno": "18",
-        "datemonth": "AUG",
-        "title": "12. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Harms"
-      },
-      {
-        "hrefics": "",
-        "dateno": "25",
-        "datemonth": "AUG",
-        "title": "13. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Prädikant Krebbers"
-      },
-      {
-        "hrefics": "",
-        "dateno": "1",
-        "datemonth": "SEP",
-        "title": "14. So.nTrinitatis",
-        "time": "10:00 Uhr",
-        "pfarrer": "Pfarrer Harms"
-      }
-    ]
-  }
+  "gottesdienste": [
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=6.%20So%20trinitatis&location=Friedenskirche%20Krefeld&startdate=07.07.2024&starthour=10&startminute=00&enddate=07.07.2024&endhour=11&endminute=00&description=Gottesdienst%20in%20der%20Friedenskirche%20Krefeld&reminder=10&method=REQUEST&timezone=CET&timezoneoffset=&filename=6-so-trinitatis&todo=generate+ics-file",
+      "dateno": "7",
+      "datemonth": "JUL",
+      "title": "6. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "",
+      "dateno": "14",
+      "datemonth": "JUL",
+      "title": "7. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Hendricks"
+    },
+    {
+      "hrefics": "",
+      "dateno": "21",
+      "datemonth": "JUL",
+      "title": "8. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Böhme"
+    },
+    {
+      "hrefics": "",
+      "dateno": "28",
+      "datemonth": "JUL",
+      "title": "9. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Schöller"
+    },
+    {
+      "hrefics": "",
+      "dateno": "4",
+      "datemonth": "AUG",
+      "title": "10. So.nTrinitatis",
+      "time": "11:00 Uhr",
+      "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "",
+      "dateno": "11",
+      "datemonth": "AUG",
+      "title": "11. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Roth"
+    },
+    {
+      "hrefics": "",
+      "dateno": "18",
+      "datemonth": "AUG",
+      "title": "12. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "",
+      "dateno": "25",
+      "datemonth": "AUG",
+      "title": "13. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Prädikant Krebbers"
+    },
+    {
+      "hrefics": "",
+      "dateno": "1",
+      "datemonth": "SEP",
+      "title": "14. So.nTrinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "test",
+      "dateno": "jun",
+      "datemonth": "test",
+      "title": "test",
+      "time": "test",
+      "pfarrer": "test"
+    }
+  ]
+}
