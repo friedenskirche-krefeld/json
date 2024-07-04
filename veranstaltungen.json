@@ -1,68 +1,78 @@
 {
-    "veranstaltungen": [
-      {
-        "hrefics": "",
-        "dateno": "6",
-        "datemonth": "JUL",
-        "title": "Joe Wulf & Gentlemen of Swing",
-        "time": "19:00 Uhr",
-        "caption": "Joe Wulf & the Gentlemen of Swing in der Friedenskirche"
+  "veranstaltungen": [
+    {
+      "hrefics": "",
+      "dateno": "6",
+      "datemonth": "JUL",
+      "title": "Joe Wulf & Gentlemen of Swing",
+      "time": "19:00 Uhr",
+      "caption": "Joe Wulf & the Gentlemen of Swing in der Friedenskirche"
     },
     {
-        "hrefics": "",
-        "dateno": "1",
-        "datemonth": "SEP",
-        "title": "Musik von Bach bis Brahms",
-        "time": "18:00 Uhr",
-        "caption": "Streichorchester und Klavier im Gemeindehaus"
+      "hrefics": "",
+      "dateno": "1",
+      "datemonth": "SEP",
+      "title": "Musik von Bach bis Brahms",
+      "time": "18:00 Uhr",
+      "caption": "Streichorchester und Klavier im Gemeindehaus"
     },
     {
-        "hrefics": "",
-        "dateno": "12",
-        "datemonth": "SEP",
-        "title": "Stefan Verhasselt Kabarett 6.0",
-        "time": "20:00 Uhr",
-        "caption": "'Mit euch ist es schöner' in der Friedenskirche"
+      "hrefics": "",
+      "dateno": "12",
+      "datemonth": "SEP",
+      "title": "Stefan Verhasselt Kabarett 6.0",
+      "time": "20:00 Uhr",
+      "caption": "'Mit euch ist es schöner' in der Friedenskirche"
     },
     {
-        "hrefics": "",
-        "dateno": "14",
-        "datemonth": "SEP",
-        "title": "Große Klassiker",
-        "time": "19:00 Uhr",
-        "caption": "Große Klassiker mit jungen Solisten in der Friedenskirche"
+      "hrefics": "",
+      "dateno": "14",
+      "datemonth": "SEP",
+      "title": "Große Klassiker",
+      "time": "19:00 Uhr",
+      "caption": "Große Klassiker mit jungen Solisten in der Friedenskirche"
     },
     {
-        "hrefics": "",
-        "dateno": "15",
-        "datemonth": "SEP",
-        "title": "Zwischen Himmel und Erde",
-        "time": "18:00 Uhr",
-        "caption": "Zwischen Himmel und Erde in der Friedenskirche"
+      "hrefics": "",
+      "dateno": "15",
+      "datemonth": "SEP",
+      "title": "Zwischen Himmel und Erde",
+      "time": "18:00 Uhr",
+      "caption": "Zwischen Himmel und Erde in der Friedenskirche"
     },
     {
-        "hrefics": "",
-        "dateno": "19",
-        "datemonth": "SEP",
-        "title": "Justus Geilhufe",
-        "time": "18:00 Uhr",
-        "caption": "Die atheistische Gesellschaft und ihre Kirche."
+      "hrefics": "",
+      "dateno": "19",
+      "datemonth": "SEP",
+      "title": "Justus Geilhufe",
+      "time": "18:00 Uhr",
+      "caption": "Die atheistische Gesellschaft und ihre Kirche."
     },
     {
-        "hrefics": "",
-        "dateno": "22",
-        "datemonth": "SEP",
-        "title": "Festkonzert 150-Jahr Feier",
-        "time": "18:00 Uhr",
-        "caption": "Festkonzert 150-Jahr Feier in der Friedenskirche"
+      "hrefics": "",
+      "dateno": "22",
+      "datemonth": "SEP",
+      "title": "Festkonzert 150-Jahr Feier",
+      "time": "18:00 Uhr",
+      "caption": "Festkonzert 150-Jahr Feier in der Friedenskirche"
     },
     {
-        "hrefics": "",
-        "dateno": "19",
-        "datemonth": "OKT",
-        "title": "Kathy Kelly & Jay Alexander",
-        "time": "19:30 Uhr",
-        "caption": "Glaub an Dich - Deutschlandtour 2024 in der Friedenskirche"
+      "hrefics": "",
+      "dateno": "19",
+      "datemonth": "OKT",
+      "title": "Kathy Kelly & Jay Alexander",
+      "time": "19:30 Uhr",
+      "caption": "Glaub an Dich - Deutschlandtour 2024 in der Friedenskirche"
     }
-    ]
-  }
+  ],
+  "gottesdienste": [
+    {
+      "hrefics": "test",
+      "dateno": "test",
+      "datemonth": "test",
+      "title": "test",
+      "time": "test",
+      "pfarrer": "test"
+    }
+  ]
+}
