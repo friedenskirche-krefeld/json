@@ -64,15 +64,5 @@
       "time": "19:30 Uhr",
       "caption": "Glaub an Dich - Deutschlandtour 2024 in der Friedenskirche"
     }
-  ],
-  "gottesdienste": [
-    {
-      "hrefics": "test",
-      "dateno": "test",
-      "datemonth": "test",
-      "title": "test",
-      "time": "test",
-      "pfarrer": "test"
-    }
   ]
 }
