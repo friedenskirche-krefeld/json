@@ -69,6 +69,13 @@
       "title": "Neuer Artikel",
       "subtitle": "New Subtitle",
       "preview": "Neue Vorschau"
+    },
+    {
+      "href": "test",
+      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/csm_mirror_cube_exterior_8_6ccbbc22e9.png",
+      "title": "Veranstaltung Name",
+      "subtitle": "Untertitel",
+      "preview": "5. Juli"
     }
   ]
 }
