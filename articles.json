@@ -69,13 +69,6 @@
       "title": "Neuer Artikel",
       "subtitle": "New Subtitle",
       "preview": "Neue Vorschau"
-    },
-    {
-      "href": "index.html",
-      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/3749891_pa.jpg.png",
-      "title": "test",
-      "subtitle": "test",
-      "preview": "test Biggi"
     }
   ]
 }
