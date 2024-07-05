@@ -41,13 +41,6 @@
       "title": "Neuer Artikel",
       "subtitle": "New Subtitle",
       "preview": "Neue Vorschau"
-    },
-    {
-      "href": "link/to/new/article",
-      "imageUrl": "images/photos/new_image.jpeg",
-      "title": "Neuer Artikel",
-      "subtitle": "New Subtitle",
-      "preview": "Neue Vorschau"
     }
   ]
 }
