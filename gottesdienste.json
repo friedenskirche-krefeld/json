@@ -63,6 +63,14 @@
       "title": "15. So.nTrinitatis",
       "time": "10:00 Uhr",
       "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=7.%20So.n.Trinitatis&location=Friedenskirche%20Krefeld&startdate=14.07.2024&starthour=10&startminute=00&enddate=14.07.2024&endhour=11&endminute=00&description=Gottesdienst%20in%20der%20Friedenskirche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=7-so-trinitatis&todo=generate+ics-file",
+      "dateno": "14",
+      "datemonth": "JUL",
+      "title": "7.So.n.Trinitatis",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Hendricks"
     }
   ]
 }
