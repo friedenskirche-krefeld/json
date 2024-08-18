@@ -2,14 +2,6 @@
   "gottesdienste": [
     {
       "hrefics": "",
-      "dateno": "28",
-      "datemonth": "JUL",
-      "title": "9. So.nTrinitatis",
-      "time": "10:00 Uhr",
-      "pfarrer": "Pfarrer Schöller"
-    },
-    {
-      "hrefics": "",
       "dateno": "4",
       "datemonth": "AUG",
       "title": "10. So.nTrinitatis",
@@ -38,7 +30,7 @@
       "datemonth": "AUG",
       "title": "13. So.nTrinitatis",
       "time": "10:00 Uhr",
-      "pfarrer": "Prädikant Krebbers"
+      "pfarrer": "PrÃ¤dikant Krebbers"
     },
     {
       "hrefics": "",
@@ -94,7 +86,7 @@
       "datemonth": "OKT",
       "title": "20. So. n. Trinitatis",
       "time": "10:00 Uhr",
-      "pfarrer": "Pr�dikantin Koll"
+      "pfarrer": "Prädikantin Koll"
     }
   ]
 }
