@@ -63,6 +63,14 @@
       "title": "22. So. n. Trinitatis",
       "time": "10:00 Uhr",
       "pfarrer": "Pfarrerin Klute"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Reformationstag&location=Friedenskirche%20Krefeld&startdate=31.10.2024&starthour=18&startminute=00&enddate=31.10.2024&endhour=19&endminute=00&description=Reformationstag%20in%20der%20Friedenskirche%20%F0%9F%8E%83&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=reformationstag&todo=generate+ics-file",
+      "dateno": "31",
+      "datemonth": "OKT",
+      "title": "Reformationstag",
+      "time": "18:00 Uhr",
+      "pfarrer": "Pfarrer Schöller"
     }
   ]
 }
