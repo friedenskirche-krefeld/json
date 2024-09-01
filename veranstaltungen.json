@@ -14,15 +14,15 @@
       "datemonth": "SEP",
       "title": "Stefan Verhasselt Kabarett 6.0",
       "time": "20:00 Uhr",
-      "caption": "'Mit euch ist es schöner'"
+      "caption": "'Mit euch ist es schÃ¶ner'"
     },
     {
       "hrefics": "",
       "dateno": "14",
       "datemonth": "SEP",
-      "title": "Große Klassiker",
+      "title": "GroÃŸe Klassiker",
       "time": "19:00 Uhr",
-      "caption": "Große Klassiker mit jungen Solisten"
+      "caption": "GroÃŸe Klassiker mit jungen Solisten"
     },
     {
       "hrefics": "",
@@ -70,7 +70,15 @@
       "datemonth": "11",
       "title": "1",
       "time": "1",
-      "caption": "ddakjda�jfdal�jfdka�fjdka�fjdka�l"
+      "caption": "ddakjdaöjfdalöjfdkaöfjdkaöfjdkaöl"
+    },
+    {
+      "hrefics": "2",
+      "dateno": "1",
+      "datemonth": "2",
+      "title": "3",
+      "time": "3",
+      "caption": "2"
     }
   ]
 }
