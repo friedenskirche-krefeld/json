@@ -64,7 +64,7 @@
       "preview": "dfghj"
     },
     {
-      "href": "/artikel?atkl=Das%20ist%20ein%20Test",
+      "href": "/artikel/index.html?atkl=Das%20ist%20ein%20Test",
       "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/Decke.jpeg",
       "title": "Das ist ein Test",
       "subtitle": "URL Parameter",
