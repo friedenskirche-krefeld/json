@@ -71,14 +71,6 @@
       "subtitle": "test",
       "preview": "test",
       "formatedText": "test"
-    },
-    {
-      "href": "/artikel/?atkl=test2",
-      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/hero_announce__bwxm3afyufua_xlarge_2x.jpg",
-      "title": "test2",
-      "subtitle": "test",
-      "preview": "test",
-      "formatedText": "test"
     }
   ]
 }
