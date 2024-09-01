@@ -63,6 +63,14 @@
       "subtitle": "Zwischen Himmel & Erde",
       "preview": "1. September 2024",
       "formatedText": "<p >Das Konzert <b><i>Zwischen Himmel und Erde</i></b> hat heute in der Friedenskirche stattgefunden.</p>\n<p ><br></p>\n<p ><br></p>\n<p ><span ><a href=\"https://www.instagram.com/p/C_X4zSyN_r5/?igsh=MWhpZXpmcG5mNGlmZg==\">Hier zum Instagram Beitrag</a></span></p>\n            \n        "
+    },
+    {
+      "href": "/artikel/?atkl=test",
+      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/hero_announce__bwxm3afyufua_xlarge_2x.jpg",
+      "title": "test",
+      "subtitle": "test",
+      "preview": "test",
+      "formatedText": "test"
     }
   ]
 }
