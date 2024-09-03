@@ -87,14 +87,6 @@
       "subtitle": "ß",
       "preview": "ß",
       "formatedText": "ß\n            \n        "
-    },
-    {
-      "href": "/artikel/?atkl=test",
-      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/Apple-celebrates-entertainment-hero.jpg",
-      "title": "test",
-      "subtitle": "test",
-      "preview": "test",
-      "formatedText": "<h2 >Lyrisch: Hinter den Wortbergen</h2>"
     }
   ]
 }
