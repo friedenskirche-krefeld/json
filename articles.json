@@ -87,14 +87,6 @@
       "subtitle": "21234567890ß0987654321",
       "preview": "21234567890987654321",
       "formatedText": "<div>7891898</div>\n            \n        "
-    },
-    {
-      "href": "/artikel/?atkl=test12345",
-      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/Apple-celebrates-entertainment-hero.jpg",
-      "title": "test12345",
-      "subtitle": "test ",
-      "preview": "test",
-      "formatedText": "hallo-das-ist-ein-test&nbsp;<div>1</div><div>2</div><div>3 hallo</div>"
     }
   ]
 }
