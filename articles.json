@@ -95,14 +95,6 @@
       "subtitle": "test ",
       "preview": "test",
       "formatedText": "hallo-das-ist-ein-test&nbsp;<div>1</div><div>2</div><div>3 hallo</div>"
-    },
-    {
-      "href": "/artikel/?atkl=12345676543234543",
-      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/Apple-celebrates-entertainment-hero.jpg",
-      "title": "12345676543234543",
-      "subtitle": "12345432343212345",
-      "preview": "5654545456",
-      "formatedText": "It was 7 minutes after midnight. The dog was lying on the grass in ]"
     }
   ]
 }
