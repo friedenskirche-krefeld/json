@@ -71,6 +71,14 @@
       "subtitle": "test",
       "preview": "test12345",
       "formatedText": "&auml; h&auml;llo"
+    },
+    {
+      "href": "/artikel/?atkl=Das%20ist%20ein%20Test",
+      "imageUrl": "https://friedenskirche-krefeld.github.io/json/images/article-images/Apple-celebrates-entertainment-hero.jpg",
+      "title": "Das ist ein Test",
+      "subtitle": "Das ist auch ein Test",
+      "preview": "hallo, das ist ein Test",
+      "formatedText": "Der &Auml;rmel ist lang und die R&ouml;hrchen und &Ouml;hrchen f&uuml;r den Gro&szlig;teil des Publikums auch &auml; &ouml; &uuml;&nbsp;"
     }
   ]
 }
