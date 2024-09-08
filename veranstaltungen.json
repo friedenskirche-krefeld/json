@@ -55,6 +55,14 @@
       "title": "Prof. Dr. Albrecht Koschorke",
       "time": "18:00 Uhr",
       "caption": "Dynamiken der Zukunftsverknappung"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Kammerorchester%20%22The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln%22&location=Friedenskirche%20Krefeld&startdate=26.10.2024&starthour=19&startminute=30&enddate=26.10.2024&endhour=21&endminute=00&description=Veranstalter%3A%20The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=Kammerorchester-in-der-friedenskirche&todo=generate+ics-file",
+      "dateno": "26",
+      "datemonth": "OKT",
+      "title": "Kammerorchester",
+      "time": "19:30 Uhr",
+      "caption": "The Chambers - die Virtuosen aus Köln"
     }
   ]
 }
