@@ -63,6 +63,14 @@
       "title": "Kammerorchester",
       "time": "19:30 Uhr",
       "caption": "The Chambers - die Virtuosen aus K&ouml;ln"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=AUDIENDA-Chor%20%22Alles%20ist%20verg%C3%A4nglich%22&location=Friedenskirche%20Krefeld&startdate=01.11.2024&starthour=19&startminute=30&enddate=01.11.2024&endhour=21&endminute=00&description=AUDIENDA-Chor%20%22Alles%20ist%20verg%C3%A4nglich%22%20%E2%80%94%20%20In%20der%20Friedenskirche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=audienda-chor&todo=generate+ics-file",
+      "dateno": "1",
+      "datemonth": "NOV",
+      "title": "AUDIENDA-Chor",
+      "time": "19:30 Uhr",
+      "caption": "\"Alles ist vergaenglich"
     }
   ]
 }
