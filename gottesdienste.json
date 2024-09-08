@@ -1,14 +1,6 @@
 {
   "gottesdienste": [
     {
-      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=15.%20Sonntag%20nach%20Trinitatis&location=Friedenskirche%20Krefeld&startdate=08.09.2024&starthour=10&startminute=00&enddate=08.09.2024&endhour=11&endminute=00&description=15.%20Sonntag%20nach%20Trinitatis%20in%20der%20Friedenskirche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=14-so-trinitatis&todo=generate+ics-file",
-      "dateno": "8",
-      "datemonth": "SEP",
-      "title": "15. So. n. Trinitatis",
-      "time": "10:00 Uhr",
-      "pfarrer": "Pfarrer Harms"
-    },
-    {
       "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=16.%20Sonntag%20nach%20Trinitatis&location=Friedenskirche%20Krefeld&startdate=15.09.2024&starthour=10&startminute=00&enddate=15.09.2024&endhour=11&endminute=00&description=Gottesdienst%20in%20der%20Friedenskirche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=&todo=generate+ics-file",
       "dateno": "15",
       "datemonth": "SEP",
