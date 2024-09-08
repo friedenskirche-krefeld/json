@@ -6,15 +6,15 @@
       "datemonth": "SEP",
       "title": "Stefan Verhasselt Kabarett 6.0",
       "time": "20:00 Uhr",
-      "caption": "'Mit euch ist es schÃƒÂ¶ner'"
+      "caption": "'Mit euch ist es schÃƒÆ’Ã‚Â¶ner'"
     },
     {
       "hrefics": "",
       "dateno": "14",
       "datemonth": "SEP",
-      "title": "GroÃŸe Klassiker",
+      "title": "GroÃƒÅ¸e Klassiker",
       "time": "19:00 Uhr",
-      "caption": "GroÃŸe Klassiker mit jungen Solisten"
+      "caption": "GroÃƒÅ¸e Klassiker mit jungen Solisten"
     },
     {
       "hrefics": "",
@@ -57,20 +57,12 @@
       "caption": "Dynamiken der Zukunftsverknappung"
     },
     {
-      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Kammerorchester%20%22The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln%22&location=Friedenskirche%20Krefeld&startdate=11.10.2024&starthour=19&startminute=30&enddate=11.10.2024&endhour=21&endminute=00&description=Kammerorchester%20%22The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln%22%20%E2%80%93%20in%20der%20Friedenskiche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=kammerorchester-in-der-friedenskiche&todo=generate+ics-file",
-      "dateno": "11",
-      "datemonth": "OKT",
-      "title": "Kammerorchester",
-      "time": "19:30",
-      "caption": "The Chambers - die Virtuosen aus Köln"
-    },
-    {
       "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Kammerorchester%20%22The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln%22&location=Friedenskirche%20Krefeld&startdate=01.11.2024&starthour=19&startminute=30&enddate=01.11.2024&endhour=21&endminute=00&description=Kammerorchester%20%22The%20Chambers%20-%20die%20Virtuosen%20aus%20K%C3%B6ln%22%20%E2%80%93%20in%20der%20Friedenskiche&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=kammerorchester-friedenskirche&todo=generate+ics-file",
       "dateno": "1",
       "datemonth": "NOV",
       "title": "Kammerorchester in der Kirche",
       "time": "19:30",
-      "caption": "The Chambers - die Virtuosen aus K�ln"
+      "caption": "The Chambers - die Virtuosen aus Köln"
     }
   ]
 }
