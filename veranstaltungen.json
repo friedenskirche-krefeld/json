@@ -78,14 +78,22 @@
       "datemonth": "NOV",
       "title": "Sabine van Baaren & Mark Joggerst",
       "time": "19:00 Uhr",
-      "caption": "Himmlische Klänge in der Friedenskirche"
+      "caption": "Himmlische KlÃ¤nge in der Friedenskirche"
     },
     {
       "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Faur%C3%A9%20-%20Requiem&location=Friedenskirche%20Krefeld&startdate=10.11.2024&starthour=18&startminute=00&enddate=10.11.2024&endhour=20&endminute=00&description=Veranstalter%3A%20Ev.%20Emmaus-Kirchengemeinde%20Willich&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=faure-requiem&todo=generate+ics-file",
       "dateno": "10",
       "datemonth": "NOV",
-      "title": "Faur� - Requiem",
+      "title": "Fauré - Requiem",
       "time": "18:00 Uhr",
+      "caption": "in der Friedenskirche"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Vayrocana%20-%20Gospel&location=Friedenskirche%20Krefeld&startdate=16.11.2024&starthour=17&startminute=00&enddate=16.11.2024&endhour=19&endminute=00&description=Veranstalter%20%3A%20Vayrocana%20Gospelchor&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=vayrocana&todo=generate+ics-file",
+      "dateno": "16",
+      "datemonth": "NOV",
+      "title": "Vayrocana - Gospel",
+      "time": "17:00 Uhr",
       "caption": "in der Friedenskirche"
     }
   ]
