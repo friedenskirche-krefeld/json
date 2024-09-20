@@ -63,6 +63,14 @@
       "title": "23. So. n. Trinitatis",
       "time": "10:00 Uhr",
       "pfarrer": "Pfarrer Harms"
+    },
+    {
+      "hrefics": "https://www.terminsysteme.de/ics/execute/icsgeneration.php?title=Drittletzter%20Sonntag%20des%20Kirchenjahres&location=Friedenskirche%20Krefeld&startdate=10.11.2024&starthour=10&startminute=00&enddate=10.11.2024&endhour=11&endminute=00&description=Gottesdienst%20mit%20Musikgruppe%20Hwang%2C%20anschl.%20Gemeindeversammlung&reminder=&method=REQUEST&timezone=CET&timezoneoffset=&filename=dittletzter-sonntag-im-kirchenjahr&todo=generate+ics-file",
+      "dateno": "10",
+      "datemonth": "NOV",
+      "title": "3. letzter Sonntag im KJ",
+      "time": "10:00 Uhr",
+      "pfarrer": "Pfarrer Harms"
     }
   ]
 }
